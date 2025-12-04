@@ -1,2 +1,9 @@
 # MD3_edge_on_Study
-Python scripts and analysis for edge-on study of ARCADIA MD3 CMOS sensors
+# MD3_edge_on_Study
+
+## Folder structure
+- data/ : raw lab data
+- doc/ : notes, reports, documentation
+- src/ : Python scripts for analysis
+- tiff/ : TIFF images from experiments
+- output/img/ : plots and processed images
