@@ -7,6 +7,7 @@
 #  - V. Pagliarino
 #  - E. Petrini
 #  - E. Posteraro
+#  - S. Khan
 #
 # Description:
 # Parse data from the binary file from DMA and store to uncompressed TIFF files.
